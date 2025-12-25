@@ -1,0 +1,70 @@
+# ClipFlow Manager - Software License
+
+Copyright (c) 2025 JWK03-9233. All Rights Reserved.
+
+## Proprietary Software License
+
+This software and associated documentation files (the "Software") are the 
+proprietary property of the copyright holder. The Software is protected by 
+copyright laws and international treaty provisions.
+
+### Grant of License
+
+You are granted a non-exclusive, non-transferable license to:
+- Install and use the Software on your personal computer(s)
+- Make backup copies of the Software for personal archival purposes
+
+### Restrictions
+
+You may NOT:
+- Modify, adapt, translate, reverse engineer, decompile, or disassemble the Software
+- Create derivative works based on the Software
+- Distribute, sell, lease, rent, or sublicense the Software
+- Remove any proprietary notices or labels on the Software
+- Use the Software for commercial purposes without explicit permission
+
+### Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+### Limitation of Liability
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR 
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
+IN THE SOFTWARE.
+
+---
+
+## Open Source Components
+
+This software includes the following open-source components:
+
+### PySide6 / Qt Framework
+- License: GNU Lesser General Public License (LGPL) v3
+- Website: https://www.qt.io/licensing/
+- Note: In accordance with the LGPL, you are permitted to modify these libraries 
+  and relink them with this application.
+
+### Pillow (PIL Fork)
+- License: Historical Permission Notice and Disclaimer (HPND)
+- Website: https://python-pillow.org/
+
+### pywin32
+- License: Python Software Foundation License
+- Website: https://github.com/mhammond/pywin32
+
+### google-generativeai
+- License: Apache License 2.0
+- Website: https://github.com/google/generative-ai-python
+
+### requests
+- License: Apache License 2.0
+- Website: https://requests.readthedocs.io/
+
+---
+
+For questions regarding licensing, please contact: 
+jwk039233@gmail.com
